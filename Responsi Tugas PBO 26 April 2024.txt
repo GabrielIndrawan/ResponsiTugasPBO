@@ -1,0 +1,16 @@
+Latihan Response PBO Teori :
+1. Nama: 
+    Alamat:
+
+
+2. NIM: A11.2000.00001
+
+3. A. Nama: 
+         Alamat:
+         NIM: A11.2000.00001
+
+    B. NIM: A11.2000.00001
+         Nama: 
+         Alamat:
+
+4. https://github.com/GabrielIndrawan/ResponsiTugasPBO
